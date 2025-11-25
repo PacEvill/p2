@@ -1,6 +1,6 @@
 /*
    TRABALHO FINAL - BANCO DE DADOS
-   Aluno: [Seu Nome Aqui]
+   Aluno: Diego Silva
    Tema: Sistema de Controle de Produção - TechMaricá Indústria Eletrônica S.A.
 */
 
